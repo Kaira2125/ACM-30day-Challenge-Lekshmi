@@ -1,0 +1,1 @@
+Hi! I'm Lekshmi, a curious and motivated AI and data science learner passionate about solving real-world problems through machine learning, data analysis, and creative thinking. I'm currently exploring tools like Python, pandas, seaborn, and scikit-learn to build a strong foundation in data science.
